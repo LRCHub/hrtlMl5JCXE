@@ -1,0 +1,74 @@
+# Pillar – Echelon
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.13] You know it's time for us to step it up
+[00:11.78] Another level now 'cause we finished warming up
+[00:14.81] So we rise up elevate to maintain
+[00:16.14] Fill up with octane and fan the flame
+[00:18.43] We regain all the names the enemy took away
+[00:20.91] And like a green beret, we will lead the way
+[00:23.46] Into battle so have no fear
+[00:25.26] We will draw near so that we can persevere
+[00:46.26] 
+[00:27.75] Like a gondolier, we headed straight to the top
+[00:29.81] Nonstop, set shop at the top of the rock
+[00:32.18] You'll feel the aftershock after we rock the spot
+[00:34.52] 'Cause you forgot these soldiers won't turn and walk
+[00:36.79] We take hard knocks, come back for more
+[00:38.83] 'Cause we're hardcore, we fight for the one who died for
+[00:41.62] And like Saigon we're on the front lines
+[00:43.67] And we carry on to the end times
+[00:59.67] 
+[00:45.89] Now that it's on, we're out in the front of this marathon
+[00:48.70] With our armor on, stay strong we drive on
+[00:50.71] Our echelon pressin' on 'til we reach the top
+[00:53.62] And you know we don't stop
+[01:06.62] 
+[00:55.22] Now that it's on, we're out in the front of this marathon
+[00:57.60] With our armor on, stay strong, drive on
+[01:00.29] Our echelon pressin' on 'til we reach the top
+[01:03.56] And you know we don't stop
+[01:16.56] 
+[01:04.57] We're on the enemy's hit list, I'm hopin' you get this
+[01:15.64] You're takin' a risk when you resist the one who made you exist
+[01:18.22] Evolutionists, we got love for you too
+[01:20.67] But we're breakin' down walls seeking out the truth
+[01:23.01] I'm a soldier in this army of one
+[01:25.22] Like I told ya the battle's already won
+[01:28.24] So about face move outta the way I gotta pray for you
+[01:29.84] And this is how we do
+[01:40.34] 
+[01:31.91] And now that it's on, we're out in the front of this marathon
+[01:34.75] With our armor on, stay strong, drive on
+[01:36.98] Our echelon pressin' on 'til we reach the top
+[01:39.73] And you know we don't stop
+[01:52.73] 
+[01:41.16] Now that it's on, we're out in the front of this marathon
+[01:43.75] With our armor on, stay strong, drive on
+[01:46.29] Our echelon pressin' on 'til we reach the top
+[01:48.72] And you know we don't stop, now that it's on
+[02:10.72] 
+[01:51.16] And now that it's on, we're out in the front of this marathon
+[02:11.67] With our armor on, stay strong, drive on
+[02:13.96] Our echelon pressin' on 'til we reach the top
+[02:16.76] And you know we don't stop
+[02:29.76] 
+[02:18.20] Now that it's on, we're out in the front of this marathon
+[02:20.97] With our armor on, stay strong, drive on
+[02:23.24] Our echelon pressin' on 'til we reach the top
+[02:25.81] And you know we don't stop
+[02:38.81] 
+[02:27.37] Now that it's on, we're out in the front of this marathon
+[02:30.05] With our armor on, stay strong, drive on
+[02:32.52] Our echelon pressin' on 'til we reach the top
+[02:35.20] And you know we don't stop
+[02:48.20] 
+[02:36.65] Now that it's on, we're out in the front of this marathon
+[02:39.21] With our armor on, stay strong, drive on
+[02:40.97] Our echelon pressin' on 'til we reach the top
+[02:44.31] And you know we don't stop, now that it's on
+[03:06.31] 
+[02:46.86] Our echelon
+```
