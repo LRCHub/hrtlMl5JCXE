@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Echelon",
+  "base_artist": "Pillar",
+  "createdAt": "2026-02-15T16:25:32.953733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Upper Echelon",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/01_Upper_Echelon_Future.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Upper Echelon",
+      "artist": "T.I. feat. Travi$ Scott",
+      "has_synced": true,
+      "path": "select/02_Upper_Echelon_T.I._feat._Travi$_Scott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Upper Echelon (ft. T.I.)",
+      "artist": "Travi$ Scott",
+      "has_synced": true,
+      "path": "select/03_Upper_Echelon_(ft._T.I.)_Travi$_Scott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Echelon",
+      "artist": "Thirty Seconds To Mars",
+      "has_synced": true,
+      "path": "select/04_Echelon_Thirty_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Echelon",
+      "artist": "30 Seconds To Mars",
+      "has_synced": true,
+      "path": "select/05_Echelon_30_Seconds_To_Mars.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Upper Echelon",
+      "artist": "Travi$ Scott, T.I. & 2 Chainz",
+      "has_synced": true,
+      "path": "select/06_Upper_Echelon_Travi$_Scott,_T.I._&_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Upper Echelon (feat. T.I. & 2 Chainz)",
+      "artist": "Travis Scott, T.I., 2 Chainz",
+      "has_synced": true,
+      "path": "select/07_Upper_Echelon_(feat._T.I._&_2_Chainz)_Travis_Scott,_T.I.,_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Upper Echelon",
+      "artist": "Travi$ Scott feat. T.I. & 2 Chainz",
+      "has_synced": true,
+      "path": "select/08_Upper_Echelon_Travi$_Scott_feat._T.I._&_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Upper Echelon (feat. T.I. & 2 Chainz)",
+      "artist": "Travi$ Scott",
+      "has_synced": true,
+      "path": "select/09_Upper_Echelon_(feat._T.I._&_2_Chainz)_Travi$_Scott.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Upper Echelon (feat. T.I. & 2 Chainz)",
+      "artist": "Travis Scott feat. T.I. & 2 Chainz",
+      "has_synced": true,
+      "path": "select/10_Upper_Echelon_(feat._T.I._&_2_Chainz)_Travis_Scott_feat._T.I._&_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Upper Echelon",
+      "artist": "Travis Scott feat. T.I. & 2 Chainz",
+      "has_synced": false,
+      "path": "select/11_Upper_Echelon_Travis_Scott_feat._T.I._&_2_Chainz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Echelon",
+      "artist": "Signs of the Swarm",
+      "has_synced": false,
+      "path": "select/12_Echelon_Signs_of_the_Swarm.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Upper Echelon (feat. T.I. & 2 Chainz)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/13_Upper_Echelon_(feat._T.I._&_2_Chainz)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Upper Echelon (feat. T.I.)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/14_Upper_Echelon_(feat._T.I.)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Upper Echelon",
+      "artist": "Travi$ Scott",
+      "has_synced": false,
+      "path": "select/15_Upper_Echelon_Travi$_Scott.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Upper Echelon",
+      "artist": "Travis Scott, T.I., 2 Chainz",
+      "has_synced": true,
+      "path": "select/16_Upper_Echelon_Travis_Scott,_T.I.,_2_Chainz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Upper Echelon",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/17_Upper_Echelon_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Echelon",
+      "artist": "30 Seconds to Mars",
+      "has_synced": true,
+      "path": "select/18_Echelon_30_Seconds_to_Mars.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Echelon",
+      "artist": "Pillar",
+      "has_synced": true,
+      "path": "select/19_Echelon_Pillar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Echelon",
+      "artist": "Pillar",
+      "has_synced": false,
+      "path": "select/pl_01_Echelon_Pillar.txt"
+    }
+  ]
+}
